@@ -2,3 +2,8 @@
 	path = captivea/odoo_addons_demo_v11
 	url = git@github.com:captivea/odoo_addons_demo_v11.git
 	branch = dev
+
+[submodule "nicoclavier/odoo-extra-outllok-plugin-changed"]
+	path = nicoclavier/odoo-extra-outllok-plugin-changed
+	url = git@github.com:nicoclavier/odoo-extra-outllok-plugin-changed.git
+	branch = develop
