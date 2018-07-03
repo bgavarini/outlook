@@ -2,3 +2,8 @@
 	path = captivea/odoo_addons_demo_v11
 	url = git@github.com:captivea/odoo_addons_demo_v11.git
 	branch = dev
+
+[submodule "odoo/odoo"]
+	path = odoo/odoo
+	url = git@github.com:odoo/odoo.git
+	branch = saas-17
