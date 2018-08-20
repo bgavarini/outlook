@@ -1,0 +1,4 @@
+[submodule "alanljj/odoo-extra-outllok-plugin-changed"]
+	path = alanljj/odoo-extra-outllok-plugin-changed
+	url = git@github.com:alanljj/odoo-extra-outllok-plugin-changed.git
+	branch = usenetoffice
